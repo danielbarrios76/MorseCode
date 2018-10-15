@@ -39,17 +39,17 @@ namespace MorseCode
                 "-..-",
                 "-.--",
                 "--..",
-                "--.--", //ñ
-                "....-", //0
-                "...--",
-                "..---",
-                ".----",
-                "----.",
-                "---..",
-                "--...",
-                "-....",
-                ".....",
-                "-----"
+                "--.--",    //ñ
+                "-----",    //0
+                ".----",    //1
+                "..---",    //2
+                "...--",    //3
+                "....-",    //4
+                ".....",    //5
+                "-....",    //6
+                "--...",    //7
+                "---..",    //8
+                "----."     //9
             };
 
             BaseABC123 = "abcdefghijklmnopqrstuvwxyzñ0123456789";
@@ -57,7 +57,7 @@ namespace MorseCode
 
         private string CodeMessage(string message)
         {
-            string value=SEPARATOR;
+            string value=string.Empty;
             int pos = 0;
 
             foreach(char c in message)
