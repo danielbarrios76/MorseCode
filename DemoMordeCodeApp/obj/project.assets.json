@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "MorseCode/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MorseCode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MorseCode.dll": {}
+        }
       }
     }
   },
@@ -673,11 +683,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "MorseCode/1.0.0": {
+      "type": "project",
+      "path": "../MorseCode/MorseCode.csproj",
+      "msbuildProject": "../MorseCode/MorseCode.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "MorseCode >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -687,9 +703,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\MorseCode\\DemoMordeCodeApp\\DemoMordeCodeApp.csproj",
-      "projectName": "DemoMordeCodeApp",
-      "projectPath": "D:\\Projects\\MorseCode\\DemoMordeCodeApp\\DemoMordeCodeApp.csproj",
+      "projectUniqueName": "D:\\Projects\\MorseCode\\DemoMordeCodeApp\\DemoMorseCodeApp.csproj",
+      "projectName": "DemoMorseCodeApp",
+      "projectPath": "D:\\Projects\\MorseCode\\DemoMordeCodeApp\\DemoMorseCodeApp.csproj",
       "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\MorseCode\\DemoMordeCodeApp\\obj\\",
       "projectStyle": "PackageReference",
@@ -709,7 +725,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Projects\\MorseCode\\MorseCode\\MorseCode.csproj": {
+              "projectPath": "D:\\Projects\\MorseCode\\MorseCode\\MorseCode.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

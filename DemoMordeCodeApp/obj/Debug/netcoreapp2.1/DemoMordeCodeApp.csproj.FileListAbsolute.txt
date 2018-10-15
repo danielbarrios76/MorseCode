@@ -1,0 +1,14 @@
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\DemoMordeCodeApp.deps.json
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\DemoMordeCodeApp.runtimeconfig.json
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\DemoMordeCodeApp.runtimeconfig.dev.json
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\DemoMordeCodeApp.dll
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\DemoMordeCodeApp.pdb
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\MorseCode.dll
+D:\Projects\MorseCode\DemoMordeCodeApp\bin\Debug\netcoreapp2.1\MorseCode.pdb
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.csprojAssemblyReference.cache
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.csproj.CoreCompileInputs.cache
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.AssemblyInfoInputs.cache
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.AssemblyInfo.cs
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.csproj.CopyComplete
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.dll
+D:\Projects\MorseCode\DemoMordeCodeApp\obj\Debug\netcoreapp2.1\DemoMordeCodeApp.pdb
