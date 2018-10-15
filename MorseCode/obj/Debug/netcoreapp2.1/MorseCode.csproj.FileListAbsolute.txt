@@ -1,9 +1,0 @@
-D:\Projects\MorseCode\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.deps.json
-D:\Projects\MorseCode\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.dll
-D:\Projects\MorseCode\MorseCode\bin\Debug\netcoreapp2.1\MorseCode.pdb
-D:\Projects\MorseCode\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.csprojAssemblyReference.cache
-D:\Projects\MorseCode\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.csproj.CoreCompileInputs.cache
-D:\Projects\MorseCode\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.AssemblyInfoInputs.cache
-D:\Projects\MorseCode\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.AssemblyInfo.cs
-D:\Projects\MorseCode\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.dll
-D:\Projects\MorseCode\MorseCode\obj\Debug\netcoreapp2.1\MorseCode.pdb
